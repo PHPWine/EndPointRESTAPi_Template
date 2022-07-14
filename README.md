@@ -62,9 +62,6 @@ endif;
  (3, 3, 'Niel Music Director', 'nielMusicDirector@mail.com','Work'),
 ```
 
-Download <a href="https://github.com/nielsofficeofficial/PHPWine"> PHPWine > </a> <br />
-Download <a href="https://github.com/nielsofficeofficial/PHPCrud"> PHPCrud > </a>
-
 <h2>Thanks To:</h2>
 <h5>
 Github : To allow me to upload my PHPWine plugin Vanilla Flavour to repository<br /> 
